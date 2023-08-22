@@ -1,1 +1,1 @@
-# Customer's review scraper for skin-care product
+# Web scraping customers review for skin-care product
