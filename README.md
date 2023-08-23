@@ -1,7 +1,7 @@
 # Web scraping of customer reviews
 
 <p>The project focuses on scraping data from DermStore.com related to various skin care products. It utilizes the Scrapy framework to navigate the product pages and review sections.
-The Spider extracts essential information for each product, including the product name, ingredients, and URL. This data is collected from the product listing pages, providing a comprehensive overview of the skin care products on the website. Extracted data is structured and stored in a structured format using Pandas DataFrame.
+The Spider extracts essential information for each product, including the product name, ingredients, URL, review title, review body, rating, and review date. This data is collected from the product listing pages, providing a comprehensive overview of the skin care products on the website. Extracted data is structured and stored in a structured format using Pandas DataFrame.
   
 <b>Applied skills:</b> Web scraping with Scrapy
 
